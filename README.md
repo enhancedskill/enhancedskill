@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/kingeasternsun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enhancedskill&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoWay&show_icons=true">
 </a>
 </p>
 
